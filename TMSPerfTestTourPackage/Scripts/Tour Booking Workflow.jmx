@@ -555,7 +555,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\apache-jmeter-5.4.1\bin\TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Assertion Result.csv</stringProp>
+          <stringProp name="filename">TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Assertion Result.csv</stringProp>
           <boolProp name="ResultCollector.success_only_logging">true</boolProp>
         </ResultCollector>
         <hashTree/>
@@ -619,7 +619,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\apache-jmeter-5.4.1\bin\TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow View Result Tree.csv</stringProp>
+        <stringProp name="filename">TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow View Result Tree.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
@@ -656,7 +656,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\apache-jmeter-5.4.1\bin\TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow View Result Table.csv</stringProp>
+        <stringProp name="filename">TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow View Result Table.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
@@ -693,7 +693,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\apache-jmeter-5.4.1\bin\TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Summery Report.csv</stringProp>
+        <stringProp name="filename">TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Summery Report.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
@@ -730,7 +730,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\apache-jmeter-5.4.1\bin\TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Aggregate Report.csv</stringProp>
+        <stringProp name="filename">CTMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Aggregate Report.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="StatGraphVisualizer" testclass="ResultCollector" testname="Aggregate Graph" enabled="true">
@@ -767,7 +767,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\apache-jmeter-5.4.1\bin\TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Aggregate Graph.csv</stringProp>
+        <stringProp name="filename">TMS\TMSPerfTestTourPackage\Results\Tour Booking Workflow Aggregate Graph.csv</stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>
