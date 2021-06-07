@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1623067828880,311,Index-Base URL Page,200,OK,Thread Group 1-1,text,true,,5061,385,1,1,http://127.0.0.1/tms/admin/pacakgeimages/,311,0,3
+1623067829191,43,Admin Login,200,OK,Thread Group 1-1,text,true,,2456,481,1,1,http://127.0.0.1/tms/admin/index.php,43,0,0
+1623067829234,49,Admin Login-exec,200,OK,Thread Group 1-1,text,true,,2476,708,1,1,http://127.0.0.1/tms/admin/index.php,49,0,0
+1623067829284,412,Admin Dashboard,200,OK,Thread Group 1-1,text,true,,9869,546,1,1,http://127.0.0.1/tms/admin/dashboard.php,356,0,0
+1623067830197,38,Create Package,200,OK,Thread Group 1-1,text,true,,9820,555,1,1,http://127.0.0.1/tms/admin/create-package.php,28,0,0
+1623067830236,445,Create Package-exec,200,OK,Thread Group 1-1,text,true,,9902,1628,1,1,http://127.0.0.1/tms/admin/create-package.php,132,0,0
+1623067830682,112,Admin Logout,200,OK,Thread Group 1-1,text,true,,2875,1084,1,1,http://127.0.0.1/tms/admin/index.php,26,0,0
+1623067830682,26,Admin Logout-0,302,Found,Thread Group 1-1,text,true,,477,552,1,1,http://127.0.0.1/tms/admin/logout.php,26,0,0
+1623067830708,86,Admin Logout-1,200,OK,Thread Group 1-1,text,true,,2398,532,1,1,http://127.0.0.1/tms/admin/index.php,86,0,0
+1623067830795,26,Admin Login,200,OK,Thread Group 1-1,text,true,,2398,532,1,1,http://127.0.0.1/tms/admin/index.php,26,0,0
