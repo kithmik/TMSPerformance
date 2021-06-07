@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1623049530984,283,Index page,200,OK,Thread Group 1-1,text,true,,16372,457,1,1,http://127.0.0.1/tms/,274,0,2
+1623049531269,74,Login form -exe,200,OK,Thread Group 1-1,text,true,,16418,693,1,1,http://127.0.0.1/tms/,42,0,0
+1623049531347,45,Tour package list page,200,OK,Thread Group 1-1,text,true,,52996,528,1,1,http://127.0.0.1/tms/package-list.php,36,0,0
+1623049531593,43,Select tour package,200,OK,Thread Group 1-1,text,true,,14368,555,1,1,http://127.0.0.1/tms/package-details.php?pkgid=1,34,0,0
+1623049531636,69,Book tour package,200,OK,Thread Group 1-1,text,true,,14441,771,1,1,http://127.0.0.1/tms/package-details.php?pkgid=1,62,0,0
+1623049531705,80,Logout,200,OK,Thread Group 1-1,text,true,,16805,1078,1,1,http://127.0.0.1/tms/index.php,10,0,0
+1623049531705,10,Logout-0,302,Found,Thread Group 1-1,text,true,,477,549,1,1,http://127.0.0.1/tms/logout.php,10,0,0
+1623049531716,69,Logout-1,200,OK,Thread Group 1-1,text,true,,16328,529,1,1,http://127.0.0.1/tms/index.php,63,0,0
+1623049531786,126,Index page,200,OK,Thread Group 1-1,text,true,,16369,529,1,1,http://127.0.0.1/tms/index.php,120,0,0
