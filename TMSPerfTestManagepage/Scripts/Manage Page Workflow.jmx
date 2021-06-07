@@ -47,7 +47,7 @@
         </CookieManager>
         <hashTree/>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">TMS/TMSPerfTestManagepage/Inputs/adminlogin.csv</stringProp>
+          <stringProp name="filename">TMSPerfTestManagepage/Inputs/adminlogin.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames"></stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
@@ -607,7 +607,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">TMS\TMSPerfTestManagepage\Results\Manage Page Workflow View Result Tree.csv</stringProp>
+        <stringProp name="filename">TMSPerfTestManagepage\Results\Manage Page Workflow View Result Tree.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
@@ -644,7 +644,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">TMS\TMSPerfTestManagepage\Results\Manage Page Workflow Summary Report.csv</stringProp>
+        <stringProp name="filename">TMSPerfTestManagepage\Results\Manage Page Workflow Summary Report.csv</stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>
