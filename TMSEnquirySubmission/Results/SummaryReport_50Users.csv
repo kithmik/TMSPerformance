@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HomePage,50,111,59,160,23.77,0.000%,.20400,3.34,0.09,16785.8
+EnquiryPage,50,65,26,87,16.50,0.000%,.20405,2.57,0.11,12878.0
+SubmitEnquiry,50,136,71,267,43.64,0.000%,.20393,2.58,0.16,12963.0
+TOTAL,150,104,26,267,42.21,0.000%,.60887,8.45,0.37,14208.9

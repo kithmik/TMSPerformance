@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1623074974028,99,HomePage,200,OK,Thread Group 1-1,text,true,,16943,471,1,1,http://192.168.8.101/tms/,98,0,33
+1623074974644,45,EnquiryPage,200,OK,Thread Group 1-1,text,true,,12878,564,1,1,http://192.168.8.101/tms/enquiry.php,42,0,0
+1623074975203,102,SubmitEnquiry,200,OK,Thread Group 1-1,text,true,,12963,822,1,1,http://192.168.8.101/tms/enquiry.php,96,0,0

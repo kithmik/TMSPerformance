@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+HomePage,20,112,102,130,136,278,69,278,0.000%,.21026,3.45,0.10
+EnquiryPage,20,66,71,82,83,87,21,87,0.000%,.21036,2.65,0.12
+SubmitEnquiry,20,120,122,134,135,136,83,136,0.000%,.21031,2.66,0.17
+TOTAL,60,99,95,133,135,136,21,278,0.000%,.62295,8.64,0.38
