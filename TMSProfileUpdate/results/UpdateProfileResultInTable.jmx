@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1623139340183,139,Login,200,OK,Thread Group 1-1,text,true,,16833,669,1,1,http://192.168.56.1/tms/index.php,109,0,4
+1623139343324,70,User Page,200,OK,Thread Group 1-1,text,true,,16806,717,1,1,http://192.168.56.1/tms/index.php,58,0,0
+1623139343395,37,Check MyProfile,200,OK,Thread Group 1-1,text,true,,18465,541,1,1,http://192.168.56.1/tms/package-list.php,28,0,0
+1623139343433,35,Change User Details,200,OK,Thread Group 1-1,text,true,,12616,543,1,1,http://192.168.56.1/tms/profile.php,27,0,0
+1623139343468,35,Username Changed Successfully ,200,OK,Thread Group 1-1,text,true,,12698,723,1,1,http://192.168.56.1/tms/profile.php,28,0,0
+1623139343503,177,Logout,200,OK,Thread Group 1-1,text,true,,17153,1054,1,1,http://192.168.56.1/tms/index.php,26,0,0
+1623139343503,27,Logout-0,302,Found,Thread Group 1-1,text,true,,475,537,1,1,http://192.168.56.1/tms/logout.php,26,0,0
+1623139343530,150,Logout-1,200,OK,Thread Group 1-1,text,true,,16678,517,1,1,http://192.168.56.1/tms/index.php,145,0,0
+1623139343681,78,HomePage,200,OK,Thread Group 1-1,text,true,,16660,517,1,1,http://192.168.56.1/tms/index.php,73,0,0
